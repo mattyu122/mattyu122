@@ -1,6 +1,8 @@
 ## About Me
 Hi, I'm Matt Yu 👋
-- 🔭 I’m studying mobile application development at George Brown College.
+- I am a graduate student with a Bachelor of Engineering majoring in Computer Engineering.
+- I am a full-stack software engineer(focusing on back-end)
+- 🔭 I’m studying mobile application development for the post-graduate certificate at George Brown College.
 - 📫 How to reach me: yukawai.studywork@gmail.com
 
 ## Skills
